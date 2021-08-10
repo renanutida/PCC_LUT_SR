@@ -5,5 +5,4 @@ This is a super resolution solution for post-processing decoded point clouds, wh
 Please, refer to file run_SR.sh as an example. The user must set-up the correct folders and input parameters. 
 If you use this project, please cite the following:
 
-https://www.techrxiv.org/articles/preprint/Point_Cloud_Reconstruction_From_Truncated_Geometry-Based_Streams/14720991
 https://www.techrxiv.org/articles/preprint/Fractional_Super-Resolution_of_Voxelized_Point_Clouds/15032052/1
